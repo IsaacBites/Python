@@ -1,0 +1,28 @@
+Exercício 1: Soma de múltiplos
+Escreva um programa que calcule a soma de todos os múltiplos de 3 e 5 no intervalo de 1 a 1000.
+
+Exercício 2: Calculadora de fatorial
+Crie um programa que permita ao usuário calcular o fatorial de um número quantas vezes desejar, até que escolha sair.
+
+Exercício 3: Adivinhe o número
+Desenvolva um jogo no qual o programa escolhe um número aleatório entre 1 e 100 e o jogador tenta adivinhar o número. O programa deve fornecer dicas se o palpite for muito alto ou muito baixo.
+
+Exercício 4: Contagem de letras
+Crie um programa que conte quantas vezes uma letra específica ocorre em uma frase fornecida pelo usuário.
+
+Exercício 5: Conversor de moedas
+Desenvolva um programa que permita ao usuário converter uma quantia em reais para dólares ou euros, com base em taxas de câmbio informadas.
+
+Exercício 6: Média de notas
+Escreva um programa que permita ao usuário inserir um número indeterminado de notas (até que o usuário decida parar) e, em seguida, calcule a média das notas.
+
+Exercício 7: Ordenação de lista
+Desenvolva um programa que permita ao usuário inserir uma lista de números e, em seguida, ordene a lista em ordem crescente.
+
+
+
+
+
+
+
+
