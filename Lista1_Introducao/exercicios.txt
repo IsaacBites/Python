@@ -1,0 +1,33 @@
+Introdução a Python
+
+
+Exercício 1: Soma de números pares
+Escreva um programa que calcula a soma de todos os números pares de 1 a 100.
+
+Exercício 2: Fatorial
+Escreva um programa que calcule o fatorial de um número inteiro fornecido pelo usuário.
+
+Exercício 3: Verificador de palíndromo
+Crie um programa que verifica se uma palavra ou frase é um palíndromo, ou seja, se pode ser lida da mesma maneira de trás para frente. Por exemplo, "arara" é um palíndromo.
+
+Exercício 4: Contagem de vogais
+Escreva um programa que conte quantas vogais (a, e, i, o, u) há em uma string fornecida pelo usuário.
+
+Exercício 5: Contagem de caracteres
+Escreva um programa que conte o número de caracteres em uma string fornecida pelo usuário, excluindo os espaços em branco.
+
+Exercício 6: Tabuada
+Crie um programa que imprime a tabuada de multiplicação para um número fornecido pelo usuário.
+
+Exercício 7: Encontrar números pares e ímpares em uma lista
+Escreva um programa que separa números pares e ímpares em uma lista fornecida pelo usuário e os exibe em listas separadas.
+
+Exercício 8: Soma de elementos em uma lista
+Crie um programa que calcula a soma de todos os elementos em uma lista de números fornecida pelo usuário.
+
+Exercício 9: Conversor de temperatura
+Desenvolva um programa que converte entre diferentes escalas de temperatura, como Celsius para Fahrenheit e vice-versa, com base na escolha do usuário.
+
+
+
+ 
